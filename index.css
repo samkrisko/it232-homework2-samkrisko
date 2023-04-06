@@ -1,0 +1,48 @@
+body{
+    background-color: #DBF9FC;
+}
+
+h1{ 
+    text-align: center;
+    color: green;
+    font-size: 32pt;
+}
+
+h2{
+    text-align: left;
+    color: green;
+}
+
+h3{
+    text-align: center;
+    color: green;
+    font-size: 28pt;
+}
+
+footer{
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+nav {
+    padding: 0.25em 1em;
+  text-decoration: none; 
+  background-color: #EBF5FF; 
+  color: #4312AE; 
+  border: 2px solid black;
+  border-top-left-radius: 1em 1em; 
+  border-top-right-radius: 1em 1em;
+  background-color: white;
+  font-weight: bold;
+  font-size: 16pt;
+}
+
+#center {
+    object-position: center;
+    object-fit: none;
+}
